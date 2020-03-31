@@ -31,6 +31,25 @@ body {
     }
 }
 
+.info-header {
+    width: 50%;
+    margin:auto;
+    border-botton: 1px #ddd solid;
+}
+#authors {
+    img {
+        margin-top:-50px;
+    }
+    .card:hover {
+        background: $primary;
+        color: #fff;
+    }
+
+    .fab {
+        color: white;
+    }
+}
+
 
 
 
